@@ -1,0 +1,144 @@
+/*reset*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*estilos generales*/
+
+body{
+    font-family: 'Roboto Slab', serif;
+}
+
+
+
+.home{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+   
+}
+
+header{
+text-align: center;
+}
+
+header nav ul{
+list-style: none;    
+}
+
+
+header nav ul li{ 
+    display: inline-block;
+    background-color: rgb(247, 113, 213);
+    margin:10px ;
+    padding: 10px;
+    border-radius: 100px;
+}
+
+header nav ul li a{
+text-decoration: none;
+color: black;
+}
+
+footer{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.conoce h2{
+    color: rgb(235, 18, 181);
+}
+
+
+
+.boton-producto{
+   display: inline-block;
+   background-color: rgb(238, 138, 208); 
+   border-radius: 100px;
+}
+
+.conoce-productos{
+    padding: 25px;
+}
+.burro{
+    position: relative;
+    top: -275px;
+    left: 250px;
+}
+
+.coneja{
+    position: relative;
+    top: -550px;
+    left: 500px;
+}
+
+.gloria{
+    position: relative;
+    top: -530px;
+}
+
+.oscar{
+    position: relative;
+    top: -805px;
+    left: 250px;
+}
+
+.elena{
+    position: relative;
+    top: -1080px;
+    left: 500px;
+}
+
+.producto-boton nav ul li a{
+    border-radius: 80%;
+}
+
+.sobre-nosotros h2{
+    color: rgb(252, 250, 251);
+}
+
+.yo{
+    background-color: rgb(240, 40, 240);
+    width:350px ;
+    height: 280px ;
+    border: 10px solid rgb(240, 40, 240);
+    padding: 30px;
+}
+
+.ellas{
+    background-color: rgb(253, 138, 234);
+    width:350px ;
+    height: 280px;
+    margin-left: 500px;
+    margin-top: -280px;
+    border: 10px solid  rgb(253, 138, 234);
+    padding: 30px;
+    
+}
+
+.tejelate{
+    background-color: rgb(252, 201, 239);
+    width: 350px;
+    height: 280px;
+    margin-left: 1000px;
+    margin-top: -280px;
+    border: 10px solid rgb(252, 201, 239);
+    padding: 30px ;
+
+}
+
+.que-son{
+    padding: 10px;
+}
+.sabias-que{
+    padding: 10px;
+}
+.objetivo{
+    padding: 10px;
+}
+.video{
+    padding: 10px;
+}
